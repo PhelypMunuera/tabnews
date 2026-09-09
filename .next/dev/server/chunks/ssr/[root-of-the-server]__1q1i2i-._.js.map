@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/code/tabnews/pages/index.js"],"sourcesContent":["function Home() {\r\n    return<h1> Hallo dev </h1>\r\n}\r\n\r\nexport default Home;\r\n"],"names":["Home"],"mappings":";;;;;;AAAA,SAASA;IACL,qBAAM,qKAAC;kBAAG;;;;;;AACd;uCAEeA"}}]
+}
